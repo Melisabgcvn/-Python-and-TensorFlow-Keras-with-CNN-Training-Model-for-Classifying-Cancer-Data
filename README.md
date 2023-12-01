@@ -1,0 +1,2 @@
+# -Python-and-TensorFlow-Keras-with-CNN-Training-Model-for-Classifying-Cancer-Data
+Tensorflow ve teras kullanarak kanser verilerini sınıflandırmak için bir CNN modeli geliştirdim. Model oluşturma esnasında transfer Learning kullandım. Verilerin temizlenmesi, büyütme işlemleri gibi veri ön işleme adımları kodda bulunmaktadır. Ayrıca model oluşturma, eğitim ve yorumlama adımlarından da detaylıca bahsedilmiştir. 
